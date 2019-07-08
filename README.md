@@ -1,9 +1,5 @@
-Visualizing data with leaflet
+Visualization with Leaflet.JS has been hosted on Git hub sites below:
 
-Hello,
+https://harishbk77.github.io/VisualizingDatawithLeaflet/index.html
 
-We discussed this in class on 06/25/2019 with the TAs about submitting this homework after the project work. 
-TA's told us we can submit the project with a readme that we will complete the homework after the project. 
 
-Thanks!
-Harish
